@@ -9,6 +9,7 @@
 - DataFrame
 
 ## MLlib
+
 - Dataframe
 - Clasificaciones y Regresiones
 - Regresión linear
@@ -16,13 +17,17 @@
 - Reducción de Dimensiones: PCA
 - Clasificación: Árboles de Decisión
 - Regresión: Random Forest
-• Streaming
-o Introducción
-o StreamingContext
-o Dstream
-o Tranformaciones
-• GraphX
-o Introducción
-o Grafos
-o Operadores
-o Algoritmos
+
+## Streaming
+
+- Introducción
+- StreamingContext
+- Dstream
+- Tranformaciones
+
+## GraphX
+
+- Introducción
+- Grafos
+- Operadores
+- Algoritmos
