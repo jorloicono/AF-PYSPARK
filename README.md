@@ -10,11 +10,12 @@
 
 ## MLlib
 
+- Introducción a Machine Learning
 - Clasificaciones y Regresiones
-- Regresión linear
+- Aprendizaje supervisado: Regresión linear, regresión logística y árboles de Decisión
 - Clustering: Kmeans
 - Reducción de Dimensiones: PCA
-- Clasificación: Árboles de Decisión
+- Clasificación: 
 - Regresión: Random Forest
 
 ## Streaming
