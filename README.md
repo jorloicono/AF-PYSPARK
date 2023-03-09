@@ -2,15 +2,14 @@
 
 ## Introducción
 
-- Instalación
-- Shell
-- Dataset
-- DFF´s
-- DataFrame
+- Introduccón al Big Data 
+- Hadoop y Spark
+- RDD’S
+- Shell (Scala)
+- Datasets y DataFrames
 
 ## MLlib
 
-- Dataframe
 - Clasificaciones y Regresiones
 - Regresión linear
 - Clustering: Kmeans
