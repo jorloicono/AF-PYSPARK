@@ -12,11 +12,10 @@
 
 - Introducción a Machine Learning
 - Clasificaciones y Regresiones
-- Aprendizaje supervisado: Regresión linear, regresión logística y árboles de Decisión
+- Regresión: Regresión Lineal
+- Clasificación: Regresión Logística, Árboles de Decisión y Random Forest
 - Clustering: Kmeans
 - Reducción de Dimensiones: PCA
-- Clasificación: 
-- Regresión: Random Forest
 
 ## Streaming
 
