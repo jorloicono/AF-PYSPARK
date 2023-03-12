@@ -1,0 +1,10 @@
+En el .zip se encuentra el proyecto de Maven que contiene todas las clases que utilizaremos en el curso.
+
+Para ejecutar cada una de las clases teneis que seguir los siguientes pasos:
+
+1.- Abrir con vuestro IDE la carpeta como nuevo proyecto
+2.- Hacer mvn package
+3.- En el terminal ir a la carpeta de vuestro PC donde tengais Spark y dentro de la carpeta bin
+4.- Ejecutar el siguiente comando cambiando la ruta donde tengais el proyecto y la clase que querais ejecutar 
+
+.\spark-submit --class mllib.JavaLinearRegressionWithElasticNetExample --master local[4] C:\Users\Usuario\Desktop\SPARK\target\SPARK-1.0-SNAPSHOT.jar 
