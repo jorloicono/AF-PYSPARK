@@ -2,21 +2,20 @@
 
 ## Introducción
 
-- Instalación
-- Shell
-- Dataset
-- DFF´s
-- DataFrame
+- Introduccón al Big Data 
+- Hadoop y Spark
+- RDD’S
+- Shell (Scala)
+- Datasets y DataFrames
 
 ## MLlib
 
-- Dataframe
+- Introducción a Machine Learning
 - Clasificaciones y Regresiones
-- Regresión linear
+- Regresión: Regresión Lineal
+- Clasificación: Regresión Logística, Árboles de Decisión y Random Forest
 - Clustering: Kmeans
 - Reducción de Dimensiones: PCA
-- Clasificación: Árboles de Decisión
-- Regresión: Random Forest
 
 ## Streaming
 
