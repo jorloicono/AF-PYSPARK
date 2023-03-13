@@ -15,7 +15,7 @@
 - Regresión: Regresión Lineal
 - Clasificación: Regresión Logística, Árboles de Decisión y Random Forest
 - Clustering: Kmeans
-- Reducción de Dimensiones: PCA
+- Sistemas de recomendación
 
 ## Streaming
 
