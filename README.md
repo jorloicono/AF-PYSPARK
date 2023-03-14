@@ -1,3 +1,7 @@
+# GRABACIONES 
+
+- SESIÓN 1: https://iconotrainingconsultingsl.my.webex.com/iconotrainingconsultingsl.my/ldr.php?RCID=eb46367fc67e1de71202fe296c16fe0c
+
 # AF-PYSPARK
 
 ## Introducción
