@@ -2,6 +2,7 @@
 
 - SESIÓN 1: https://iconotrainingconsultingsl.my.webex.com/iconotrainingconsultingsl.my/ldr.php?RCID=eb46367fc67e1de71202fe296c16fe0c
 - SESIÓN 2: https://iconotrainingconsultingsl.my.webex.com/iconotrainingconsultingsl.my/ldr.php?RCID=a078c5992a7d81b90dafb624a42a40ce
+- SESIÓN 3: https://iconotrainingconsultingsl.my.webex.com/iconotrainingconsultingsl.my/ldr.php?RCID=270c96e4664fe1f1006f594af138aa2f
 
 # AF-PYSPARK
 
