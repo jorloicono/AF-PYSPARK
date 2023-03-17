@@ -1,0 +1,7 @@
+import org.apache.spark.streaming._
+import org.apache.spark._
+
+val ssc = new StreamingContext(sc, Seconds(10))
+val filestream = ssc.textFileStream("file:///C:/Users/Usuario/Desktop/PRUEBAS")
+filestream.foreachRDD(rdd => {println(rdd.count())})
+ssc.start
