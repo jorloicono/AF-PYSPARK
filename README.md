@@ -2,7 +2,7 @@
 
 ## Introducción
 
-- Introduccón al Big Data 
+- Introducción al Big Data 
 - Hadoop y Spark
 - RDD’S
 - Shell (Scala)
@@ -16,17 +16,19 @@
 - Clasificación: Regresión Logística, Árboles de Decisión y Random Forest
 - Clustering: Kmeans
 - Sistemas de recomendación
+- Procesamiento del lenguaje natural
 
 ## Streaming
 
-- Introducción
+- Introducción a los datos en streaming
 - StreamingContext
 - Dstream
-- Tranformaciones
+- Tranformaciones sobre los Dstream
 
 ## GraphX
 
-- Introducción
-- Grafos
+- Introducción a los grafos
+- GraphX y Graphframes
 - Operadores
-- Algoritmos
+- Definición de nuestro primer grafo
+- Algoritmos: PageRank, Shortest Path ...
